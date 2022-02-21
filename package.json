@@ -1,6 +1,6 @@
 {
   "private": true,
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1-beta.1",
   "description": "中教智汇工程化项目",
   "workspaces": [
     "packages/*"

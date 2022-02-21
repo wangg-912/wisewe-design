@@ -1,7 +1,7 @@
 {
   "name": "wisewe",
-  "version": "0.0.1-alpha.1",
-  "private": true,
+  "version": "0.0.1-beta.1",
+  "private": false,
   "description": "集成配置、工具库、钩子依赖及组件,同时支持JavaScript和TypeScript语法服务于中教智汇项目的前端工程化.",
   "workspaces": [
     "packages/*"
